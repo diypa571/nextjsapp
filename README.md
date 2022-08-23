@@ -3,17 +3,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 
-Command History 
- ## npx create-next-app afton
-## cd afton/
+ Command History 
+ #  npx create-next-app afton
+#  cd afton/
  #   npm run dev
  
-## git init
-##  git remote add origin https://github.com/diypa571/nextjsapp.git
-## git add .
-## git commit -m "Comments"
-##  git push origin main
- ##  git push origin master
+#  git init
+#   git remote add origin https://github.com/diypa571/nextjsapp.git
+#  git add .
+# git commit -m "Comments"
+#  git push origin main
+ #   git push origin master
 ## history
 
 
