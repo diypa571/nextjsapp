@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Command History 
  ## npx create-next-app afton
 ## cd afton/
- ## 1986  npm run dev
+ #   npm run dev
  
 ## git init
 ##  git remote add origin https://github.com/diypa571/nextjsapp.git
